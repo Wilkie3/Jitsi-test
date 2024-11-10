@@ -1,0 +1,6 @@
+streamlit
+pyaudio
+numpy
+scipy
+selenium
+openai-whisper
